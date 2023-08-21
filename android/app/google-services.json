@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "592788505898",
+    "project_id": "tugas-mobprog-5f074",
+    "storage_bucket": "tugas-mobprog-5f074.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592788505898:android:124a4bdd7608b1e8748a53",
+        "android_client_info": {
+          "package_name": "com.example.local_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592788505898-cm5u68iahoetbg802ha58t7be68tmak6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6R_UQN6YcPfBXxXTi94Tx-ucYVCnJxic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592788505898-308uiho324s3etbu4vvvt2jvbv89itho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

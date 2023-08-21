@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>592788505898-krguqqc127gnakj3b7l93h5r4c1m7nvv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.592788505898-krguqqc127gnakj3b7l93h5r4c1m7nvv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD4uvSD1kRRbE1hc2d2m2eHBueDRAIiuNU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>592788505898</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.localNotification</string>
+	<key>PROJECT_ID</key>
+	<string>tugas-mobprog-5f074</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tugas-mobprog-5f074.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:592788505898:ios:4346243681500724748a53</string>
+</dict>
+</plist>
